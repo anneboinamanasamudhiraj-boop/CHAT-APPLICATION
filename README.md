@@ -40,4 +40,6 @@ Successfully developed a real-time chat application that allows instant communic
 
 # OUTPUT
 
+<img width="603" height="258" alt="Image" src="https://github.com/user-attachments/assets/2505863d-3723-42ca-b43f-568c718d08cf" />
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8108da5-c65f-4eec-92b0-8eb569f93de4" />
